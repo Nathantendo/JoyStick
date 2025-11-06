@@ -1,3 +1,3 @@
 The Source Code Will Be Uploaded When Actual Mainline Releases Are Distributed.
-For Now, The Uploaded DevBuild APKs Are Intended For Testing Purposes. 
+For Now, Use One Of The Uploaded DevBuild APKs That Are Intended For Testing Purposes. 
 Thank You For Looking Into JoyStick! :)
