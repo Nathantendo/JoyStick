@@ -1,4 +1,4 @@
-package com.example.joystick
+package io.github.nathantendo.joystick
 
 import android.Manifest
 import android.os.Build
@@ -13,8 +13,8 @@ import androidx.core.net.toUri
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.joystick.fileimport.AppSelectionScreen
-import com.example.joystick.ui.JoystickTheme
+import io.github.nathantendo.joystick.fileimport.AppSelectionScreen
+import io.github.nathantendo.joystick.ui.JoystickTheme
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
