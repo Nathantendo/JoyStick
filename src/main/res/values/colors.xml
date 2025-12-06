@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#3A506B</color>         <!-- Blue-ish grey -->
+    <color name="onPrimary">#FFFFFF</color>
+
+    <color name="secondary">#1C6DD0</color>       <!-- Vibrant blue for buttons -->
+    <color name="onSecondary">#FFFFFF</color>
+
+    <color name="background">#F0F4F8</color>      <!-- Light grey background -->
+    <color name="onBackground">#1A1A1A</color>
+
+    <color name="surface">#FFFFFF</color>
+    <color name="onSurface">#1A1A1A</color>
+</resources>

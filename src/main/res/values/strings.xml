@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JoyStick</string>
+    <!-- Shortcut labels -->
+    <string name="shortcut_short_label">Open Game</string>
+    <string name="shortcut_long_label">Launch a saved game</string>
+    <string name="shortcut_disabled_message">Game shortcut disabled</string>
+</resources>
