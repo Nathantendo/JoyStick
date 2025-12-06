@@ -1,4 +1,4 @@
-package com.example.joystick
+package io.github.nathantendo.joystick
 
 import org.junit.Test
 
