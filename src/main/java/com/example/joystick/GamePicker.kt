@@ -1,1 +1,1 @@
-package com.example.joystick
+package io.github.nathantendo.joystick
