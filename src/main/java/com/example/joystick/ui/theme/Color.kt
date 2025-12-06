@@ -1,4 +1,4 @@
-package com.example.joystick.ui.theme
+package io.github.nathantendo.joystick.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
