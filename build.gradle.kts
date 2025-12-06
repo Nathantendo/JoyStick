@@ -7,13 +7,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.joystick"
+    namespace = "io.github.nathantendo.joystick"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.joystick"
+        applicationId = "io.github.nathantendo.joystick"
         minSdk = 25
         targetSdk = 36
         versionCode = 1
