@@ -1,4 +1,4 @@
-package com.example.joystick.ui
+package io.github.nathantendo.joystick.ui
 
 import android.content.Context
 import android.content.pm.ShortcutInfo
