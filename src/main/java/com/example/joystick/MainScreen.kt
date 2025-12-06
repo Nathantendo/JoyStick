@@ -1,4 +1,4 @@
-package com.example.joystick
+package io.github.nathantendo.joystick
 
 import android.annotation.SuppressLint
 import android.content.ClipData
