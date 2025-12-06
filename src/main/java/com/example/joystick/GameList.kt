@@ -1,4 +1,4 @@
-package com.example.joystick
+package io.github.nathantendo.joystick 
 
 import android.content.Context
 import android.net.Uri
