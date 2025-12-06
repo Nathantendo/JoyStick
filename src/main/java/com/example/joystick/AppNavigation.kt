@@ -6,7 +6,7 @@ import androidx.compose.runtime.Composable
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.joystick.fileimport.AppSelectionScreen
+import io.github.nathantendo.joystick.fileimport.AppSelectionScreen
 
 @Composable
 fun JoystickNavigation(context: Context) {
