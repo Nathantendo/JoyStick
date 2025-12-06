@@ -1,4 +1,4 @@
-package com.example.joystick.fileimport
+package io.github.nathantendo.joystick.fileimport
 
 import android.content.ClipData
 import android.content.Intent
