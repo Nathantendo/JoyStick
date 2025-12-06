@@ -1,4 +1,4 @@
-package com.example.joystick
+package io.github.nathantendo.joystick
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
